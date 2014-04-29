@@ -1,0 +1,6 @@
+[submodule "smithlab_cpp"]
+	path = smithlab_cpp
+	url = https://github.com/smithlabcode/smithlab_cpp
+[submodule "src/smithlab_cpp"]
+	path = src/smithlab_cpp
+	url = https://github.com/smithlabcode/smithlab_cpp
